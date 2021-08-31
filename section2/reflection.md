@@ -57,7 +57,9 @@ end
 ```
 
 1. How would you call or execute the method that you created above?
-`hello_someone("Sam")`
+```ruby
+hello_someone("Sam")
+```
 
 1. What questions do you have about methods in Ruby?
 - Out of curiosity, the author of "Learn Ruby the Hard Way" mentioned that typing `return` is not necessary as its already implied.  Is there an industry standard for whether or not to use the `return`?
