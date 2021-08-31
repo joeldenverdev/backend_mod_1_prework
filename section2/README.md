@@ -56,7 +56,7 @@ Using your terminal, open your local copy of the forked repository you created d
 
     - [X] [Making Decisions](https://learnrubythehardway.org/book/ex31.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
+    - [X] [Conditionals](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals) from Ruby in 100 Minutes.
 
 1. Work through the if_statements.rb file in the section2/exercises directory.
 
@@ -68,13 +68,13 @@ Using your terminal, open your local copy of the forked repository you created d
 
     _*Note*: In some of these lessons, the author refers to methods as functions. They are interchangable here, but at Turing, we will be use the word `method`._
 
-    - [ ] [Methods](https://launchschool.com/books/ruby/read/methods) from LaunchSchool. Work up to the `obj.method or method(obj)` header.
+    - [X] [Methods](https://launchschool.com/books/ruby/read/methods) from LaunchSchool. Work up to the `obj.method or method(obj)` header.
 
-    - [ ] [Intro to Methods](https://learnrubythehardway.org/book/ex18.html) from Learn Ruby the Hard Way.
+    - [X] [Intro to Methods](https://learnrubythehardway.org/book/ex18.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Methods and Variables](https://learnrubythehardway.org/book/ex19.html) from Learn Ruby the Hard Way.
+    - [X] [Methods and Variables](https://learnrubythehardway.org/book/ex19.html) from Learn Ruby the Hard Way.
 
-    - [ ] [Methods and Return Values](https://learnrubythehardway.org/book/ex21.html) from Learn Ruby the Hard Way.
+    - [X] [Methods and Return Values](https://learnrubythehardway.org/book/ex21.html) from Learn Ruby the Hard Way.
 
 1. Work through the methods.rb file in the section2/exercises directory.
 
