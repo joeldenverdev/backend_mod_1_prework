@@ -13,17 +13,27 @@
 1. Why might you want to use an if-statement?
   - You'd want to use if statements if there are outputs or actions you want to execute only if certain requirements have been met.
 1. What is the Ruby syntax for an if statement?
-  - `if/elsif/else/end`
+```ruby
+if
+  # body
+elsif
+  # body
+else
+  # body
+end
+```
 1. How do you add multiple conditions to an if statement?
   - Multiple conditions could be added either through `elsif` statements and/or nested if statements which should allow for edge cases, and usually a default situation.
 1. Provide an example of the Ruby syntax for an `if/elsif/else` statement:
-  - ```if students == 32
-      puts "Class is full"
-    elsif students < 32
-      puts "Enrollment is open."
-    else
-      puts "The class is overbooked!"
-    end ```
+```ruby
+if students == 32
+  puts "Class is full"
+elsif students < 32
+  puts "Enrollment is open."
+else
+  puts "The class is overbooked!"
+end
+```
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
   - Switch statements are also conditional and can have a similar effect on the code.
 
@@ -33,14 +43,14 @@
   - Methods are blocks of code that perform a specific function and can do so as many times as is needed, instead of re-writing the code every time that function is called for.
 
 1. Create a method named `hello` that will print `"Sam I am"`.
-```
+```ruby
 def hello
   puts "Sam I am"
 end
-   ```
+```
 
 1. Create a method named `hello_someone` that takes an argument of `name` and prints `"#{name} I am"`.
-```
+```ruby
 def hello_someone(name)
   puts "#{name} I am"
 end
