@@ -7,3 +7,9 @@ puts "I could have code like this." # and the comment after is ignored
 # puts "This won't run."
 
 puts "This will run."
+
+# Study Drills
+# 1. Done.
+# 2. Done.
+# 3. Done.
+# 4. Done.

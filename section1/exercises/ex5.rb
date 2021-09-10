@@ -23,3 +23,8 @@ puts "#{name} weighs #{weight_in_kilograms} kilograms."
 
 #this line is tricky, try to get it exactly right
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}"
+
+
+# Study Drills
+# 1. Done.
+# 2. Done.
