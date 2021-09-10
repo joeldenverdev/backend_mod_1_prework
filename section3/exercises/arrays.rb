@@ -18,7 +18,6 @@ animals = ["Zebra", "Giraffe", "Elephant"];
 print animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
-# YOUR CODE HERE
 print animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
@@ -29,7 +28,6 @@ print animals.length
 
 # YOU DO: Write code that will reassign the last item in the animals
 # array to "Gorilla"
-
 animals[-1] = "Gorilla"
 
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
