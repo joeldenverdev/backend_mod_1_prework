@@ -25,6 +25,7 @@ So this week, we would like you to start self-monitoring your progress. Before y
 - Have the time estimates matched up with your experience?
 - When you sit down to start working, do you have a clear goal of what you want to accomplish and in how much time? If so, how aligned is that to what actually happens?
 - How do you work best - in 2 hour blocks, 4 hour blocks, etc? Do you take breaks regularly? Do you have a system to hold yourself accountable to taking breaks?
+    - The honest answer is that I've had to help at my mom's house almost every day for the last few weeks, after she had a surgery, so the study schedule I made has gone out of the window.  Thankfully, I started the pre-work pretty early which has allowed me some buffer time when things were very hectic.  Generally, I think that I get through some of the material a bit quicker than I was anticipating, but I also stop to take a lot of notes. I'm looking forward to having some structured time for `section4` and `final_prep`.
 
 You've probably heard of the Pomodoro Technique in Mod 0 classes (and elsewhere, maybe!). During this final section of pre-work, we are going to ask that you follow this technique. Please read about it [here](https://www.dovico.com/blog/2020/08/26/the-pomodoro-technique-how-to-manage-your-work-time-and-flow-the-easy-way/). The article doesn't mention writing down Step 1, but we ask that you find a special spot in your notebook where you do this for each work session. In the deliverables, we will ask that you share what you wrote down for Step 1 of the technique each time you started a new task. _Note: if the 25 minutes on/3-5 minutes off isn't best for you, you do **not** have to follow that! The main focus of this is setting an intention and continuing to better understand your working style._
 
@@ -36,13 +37,13 @@ When you are all done with the lessons, exercises, and questions for today, you 
 
 1. Work through the following lessons. Any files that you create while working can be kept in today's `exercises` directory.
 
-    - [ ] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) section from LaunchSchool.
+    - [X] [What Are Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#whatareobjects) section from LaunchSchool.
 
-    - [ ] [Classes Define Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) section from LaunchSchool.
+    - [X] [Classes Define Objects](https://launchschool.com/books/oo_ruby/read/the_object_model#classesdefineobjects) section from LaunchSchool.
 
-    - [ ] [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) from LaunchSchool.
+    - [X] [Classes and Objects Part 1](https://launchschool.com/books/oo_ruby/read/classes_and_objects_part1) from LaunchSchool.
 
-    - [ ] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) from Ruby in 100 Minutes.
+    - [X] [Objects, Attributes and Methods](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#11.-objects,-attributes,-and-methods) from Ruby in 100 Minutes.
 
 1. Work through the files in the section4/exercises directory.
 
